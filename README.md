@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am the main programmer of Blockopolis, a modded version of ElectraMod.
+I do random stuff in my free time.
 
 I like to work on my website in my spare time, you can check it out [here](https://bkerboy.vercel.app/index.html).
 
